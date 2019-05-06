@@ -66,3 +66,4 @@ new Vue({
   render: h => h(App)
 }).$mount("#app");
 //add glj
+//add glj 2
